@@ -1,0 +1,1053 @@
+# Translation of Themes - SpicePress in Japanese
+# This file is distributed under the same license as the Themes - SpicePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-11 02:05:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - SpicePress\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "SpicePress is a responsive and fully customizable business template. It is a perfect solution for creative and corporate websites, restaurants, wedding planners, law firms, finance, consulting, travel, photography, recipes, design, sport/medical shops, startups, online agencies, portfolios, E-commerce (WooCommerce), and freelancers. The advanced admin panel will enable you to personalize SpicePress without any technical information. SpicePress is translation ready and supports popular plugins like WPML, Polylang, WooCommerce and Contact Form 7. Check out also SpicePress PRO, the premium version, which has a lot more to offer."
+msgstr "SpicePressはレスポンシブで完全にカスタマイズ可能なビジネステンプレートです。企業 サイト、レストラン、ウエディング・プランナー、弁護士事務所、金融、コンサルティング、旅行、写真、レシピ、デザイン、 スポーツ・医療器具販売店、 スタートアップ、 オンライン・エージェンシー、 ポートフォリオ、 E-commerce (WooCommerce)、フリーランサー向けのクリエイティブな企業サイトに向いています。アドバンス管理パネルは技術的情報を要することなくSpicePressのカスタマイズが可能となっております。SpicePressはWPML、Polylang、WooCommerce や Contact Form 7などのプラグインの多言語化に対応しております。更に多機能なプレミアムバージョンのSpicePress PROも合わせてご覧ください。"
+
+#. Theme Name of the theme
+#: footer.php:23
+#, gp-priority: high
+msgid "SpicePress"
+msgstr "SpicePress"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Free vs Pro"
+msgstr "無料版とプロ版の違い"
+
+#: admin/tab-pages/getting-started.php:54
+msgid "Theme Support"
+msgstr "テーマサポート"
+
+#: footer.php:23
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions/customizer/customizer_typography.php:1418
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: functions/customizer/customizer_typography.php:1090
+msgid "Shop Page"
+msgstr "ショップページ"
+
+#: functions/customizer/customizer_typography.php:904
+msgid "Paragraph"
+msgstr "段落"
+
+#: functions/customizer/customizer_typography.php:677
+#: functions/customizer/customizer_typography.php:1233
+msgid "Heading 3 (H3)"
+msgstr "見出し3 (H3)"
+
+#: functions/customizer/customizer_typography.php:620
+#: functions/customizer/customizer_typography.php:1176
+msgid "Heading 2 (H2)"
+msgstr "見出し2 (H2)"
+
+#: functions/customizer/customizer_typography.php:564
+#: functions/customizer/customizer_typography.php:1118
+msgid "Heading 1 (H1)"
+msgstr "見出し1 (H1)"
+
+#: functions/customizer/customizer_typography.php:487
+msgid "Section Description"
+msgstr "セクション説明"
+
+#: functions/customizer/customizer_typography.php:430
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+#: functions/customizer/customizer_typography.php:295
+msgid "Page Title"
+msgstr "ページタイトル"
+
+#: functions/customizer/customizer_typography.php:78
+#: functions/customizer/customizer_typography.php:133
+#: functions/customizer/customizer_typography.php:188
+#: functions/customizer/customizer_typography.php:243
+#: functions/customizer/customizer_typography.php:320
+#: functions/customizer/customizer_typography.php:377
+#: functions/customizer/customizer_typography.php:457
+#: functions/customizer/customizer_typography.php:512
+#: functions/customizer/customizer_typography.php:589
+#: functions/customizer/customizer_typography.php:646
+#: functions/customizer/customizer_typography.php:703
+#: functions/customizer/customizer_typography.php:759
+#: functions/customizer/customizer_typography.php:815
+#: functions/customizer/customizer_typography.php:871
+#: functions/customizer/customizer_typography.php:929
+#: functions/customizer/customizer_typography.php:985
+#: functions/customizer/customizer_typography.php:1065
+#: functions/customizer/customizer_typography.php:1145
+#: functions/customizer/customizer_typography.php:1202
+#: functions/customizer/customizer_typography.php:1259
+#: functions/customizer/customizer_typography.php:1338
+#: functions/customizer/customizer_typography.php:1393
+#: functions/customizer/customizer_typography.php:1471
+#: functions/customizer/customizer_typography.php:1526
+msgid "Font family"
+msgstr "フォント"
+
+#: functions/customizer/customizer_blog_option_settings.php:159
+msgid "Hide/Show Author Details"
+msgstr "投稿者の詳細を非表示/表示"
+
+#: functions/customizer/customizer_blog_option_settings.php:145
+msgid "Hide/Show Tag"
+msgstr "タグを非表示/表示"
+
+#: functions/customizer/customizer_blog_option_settings.php:115
+msgid "Hide/Show Date"
+msgstr "日付を非表示/表示"
+
+#: functions/customizer/customizer_blog_option_settings.php:85
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: functions/customizer/customizer_blog_option_settings.php:66
+msgid "Excerpt Length"
+msgstr "抜粋の長さ"
+
+#: functions/customizer/customizer_blog_option_settings.php:51
+msgid "Full Content"
+msgstr "全文"
+
+#: functions/customizer/customizer_blog_option_settings.php:50
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: functions/customizer/customizer_color_back_settings.php:554
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions/customizer/customizer_color_back_settings.php:447
+#: functions/customizer/customizer_typography.php:537
+msgid "Content"
+msgstr "コンテンツ"
+
+#: functions/customizer/customizer_color_back_settings.php:375
+#: functions/customizer/customizer_color_back_settings.php:565
+#: functions/customizer/customizer_color_back_settings.php:655
+msgid "Title Color"
+msgstr "タイトルの色"
+
+#: functions/customizer/customizer_color_back_settings.php:349
+msgid "Banner Title"
+msgstr "バナータイトル"
+
+#: functions/customizer/customizer_color_back_settings.php:336
+#: functions/customizer/customizer_typography.php:268
+msgid "Banner"
+msgstr "バナー"
+
+#: functions/customizer/customizer_color_back_settings.php:172
+#: functions/customizer/customizer_typography.php:163
+msgid "Menus"
+msgstr "メニュー"
+
+#: functions/customizer/customizer_color_back_settings.php:139
+#: functions/customizer/customizer_color_back_settings.php:577
+#: functions/customizer/customizer_color_back_settings.php:667
+msgid "Text Color"
+msgstr "文字色"
+
+#: functions/customizer/customizer_color_back_settings.php:113
+#: functions/customizer/customizer_typography.php:108
+msgid "Site Tagline"
+msgstr "サイトのキャッチフレーズ"
+
+#: functions/customizer/customizer_color_back_settings.php:87
+#: functions/customizer/customizer_color_back_settings.php:426
+#: functions/customizer/customizer_color_back_settings.php:589
+#: functions/customizer/customizer_color_back_settings.php:679
+msgid "Link Color"
+msgstr "リンク色"
+
+#: functions/customizer/customizer_color_back_settings.php:61
+#: functions/customizer/customizer_typography.php:53
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: functions/customizer/customizer_color_back_settings.php:30
+#: functions/customizer/customizer_typography.php:26
+msgid "Header"
+msgstr "ヘッダー"
+
+#: functions/customizer/customizer_color_back_settings.php:21
+#: functions/customizer/customizer_color_back_settings.php:280
+msgid "Background Color"
+msgstr "背景色"
+
+#: functions/customizer/customizer_color_back_settings.php:15
+msgid "Background Image"
+msgstr "背景画像"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "内容をスキップ"
+
+#: functions/customizer/customizer_general_settings.php:159
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#: admin/tab-pages/useful_plugins.php:11 admin/tab-pages/useful_plugins.php:13
+msgid "Contact Support"
+msgstr "サポートに問い合わせる"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化が完了しました。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール、更新、有効化するプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "未有効化 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "事前パッケージ済み"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール、更新、有効化可能な必須または推奨プラグインがあります。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s。"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: admin/inc/class-spicethemes-about-page.php:490 functions.php:209
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:349
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: admin/inc/class-spicethemes-about-page.php:327
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:325
+msgid "Install %s now"
+msgstr "%s を今すぐインストール"
+
+#: admin/tab-pages/getting-started.php:78 admin/tab-pages/useful_plugins.php:18
+#: admin/tab-pages/useful_plugins.php:20
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: admin/inc/class-spicethemes-about-page.php:248
+msgid "Support"
+msgstr "サポート"
+
+#: admin/inc/class-spicethemes-about-page.php:123
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$s %2$s へようこそ"
+
+#: admin/inc/class-spicethemes-about-page.php:122
+msgid "About %1$s %2$s"
+msgstr "%1$s%2$sについて"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "エラー"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "インストール中"
+
+#: functions/customizer/customizer_general_settings.php:247
+msgid "Disable animation effect in desktop"
+msgstr "デスクトップでアニメーション効果を無効にする"
+
+#: functions/customizer/customizer_general_settings.php:235
+msgid "Animation Setting"
+msgstr "アニメーション設定"
+
+#. Template Name of the theme
+msgid "Contact page"
+msgstr "問い合わせるページ"
+
+#. Template Name of the theme
+msgid "About Us"
+msgstr "私たちについて"
+
+#: functions/widgets/sidebars.php:61 functions/widgets/sidebars.php:63
+msgid "Contact template sidebar"
+msgstr "問い合わせるテンプレートサイドバー"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:100
+#: functions/customizer/customizer_bredcrumbs_settings.php:106
+#: functions/template-tags.php:214
+msgid "Shop"
+msgstr "ショップセクション"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:85
+#: functions/customizer/customizer_bredcrumbs_settings.php:91
+#: functions/template-tags.php:238
+msgid "404"
+msgstr "404"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:77 searchform.php:3
+msgid "Search"
+msgstr "検索"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:48
+msgid "Author"
+msgstr "投稿者"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:28
+#: functions/customizer/customizer_bredcrumbs_settings.php:34
+#: functions/template-tags.php:196
+msgid "Category"
+msgstr "カテゴリー"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:14
+#: functions/customizer/customizer_bredcrumbs_settings.php:20
+#: functions/template-tags.php:178
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:5
+msgid "Archive Page Title"
+msgstr "アーカイブページのタイトル"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "ビジネステンプレート"
+
+#: searchform.php:2
+msgid "Search here"
+msgstr "検索"
+
+#: search.php:30
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: search.php:29
+msgid "Nothing found"
+msgstr "見つかりません"
+
+#: header/header-navbar.php:27 header/header-navbar.php:38
+#: header/header-navbar.php:69 header/header-navbar.php:116
+msgid "Toggle navigation"
+msgstr "ナビゲーション切り替え"
+
+#: functions.php:116
+#: functions/customizer/customizer_color_back_settings.php:159
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:70
+msgid "Page"
+msgstr "固定ページ"
+
+#: functions/widgets/sidebars.php:50 functions/widgets/sidebars.php:52
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce サイドバーウィジェットエリア"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "フッターウィジェット右エリア"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "フッターウィジェットの中央エリア"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "フッターウィジェット左エリア"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "サイドバーウィジェットエリア"
+
+#: functions/template-tags.php:272
+msgid "next page"
+msgstr "次のページ"
+
+#: functions/template-tags.php:272
+msgid "previous page"
+msgstr "前のページ"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:71
+#: functions/template-tags.php:228
+msgid "Search results for"
+msgstr "検索結果:"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:42
+#: functions/template-tags.php:202
+msgid "All posts by"
+msgstr "すべての投稿"
+
+#: functions/template-tags.php:184 functions/template-tags.php:188
+#: functions/template-tags.php:192 functions/template-tags.php:198
+#: functions/template-tags.php:204 functions/template-tags.php:210
+#: functions/template-tags.php:216 functions/template-tags.php:232
+#: functions/template-tags.php:242
+msgid "%1$s %2$s"
+msgstr "%1$s: %2$s"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:56
+#: functions/customizer/customizer_bredcrumbs_settings.php:62
+#: functions/template-tags.php:35 functions/template-tags.php:132
+#: functions/template-tags.php:208
+msgid "Tag"
+msgstr "タグ"
+
+#: functions/template-tags.php:31 functions/template-tags.php:125
+msgid "in"
+msgstr "に"
+
+#: functions/template-tags.php:25 functions/template-tags.php:117
+msgid "By"
+msgstr "By"
+
+#: admin/inc/class-spicethemes-about-page.php:112
+msgid "View Theme Info"
+msgstr "テーマ情報を見る"
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Premium Theme Details"
+msgstr "プレミアムテーマの詳細"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Your feedback is valuable to us"
+msgstr "フィードバックに感謝します"
+
+#: admin/tab-pages/getting-started.php:48
+msgid "PRO Demo"
+msgstr "PRO デモ"
+
+#: admin/tab-pages/getting-started.php:42
+msgid "Lite Demo"
+msgstr "Lite デモ"
+
+#: admin/tab-pages/getting-started.php:37
+msgid "Useful Links"
+msgstr "便利なリンク集"
+
+#: admin/tab-pages/getting-started.php:31
+msgid "SpicePress theme"
+msgstr "SpicePressテーマ"
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Go to the Customizer"
+msgstr "カスタマイザーへ移動"
+
+#: admin/tab-pages/getting-started.php:23
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "このテーマが提供するすべての機能を最大限に活用するには、SpiceBoxプラグインをインストールして有効にします。 カスタマイズに進み、SpiceBoxプラグインをインストールします。"
+
+#: admin/inc/class-spicethemes-about-page.php:235
+#: admin/tab-pages/getting-started.php:20
+msgid "Getting Started"
+msgstr "はじめてみよう"
+
+#: admin/tab-pages/getting-started.php:18
+msgid "You can use this theme for any type of activity. SpicePress is compatible with popular plugins like WPML and Polylang. To help you create an effective and impactful web presence, SpicePress has predefined versions of many pages: Contact, Services, Portfolios, About Us and Blog."
+msgstr "このテーマはどの業種でも使用できます。またWPML、Polylang などの人気プラグインと互換性があります。このテーマのお問い合わせページ、サービスページ、ポートフォリオ、カラムレイアウトページ、私たちについて、ブログレイアウトページがあらかじめ用意されており、効果的なサイト作成に役立ちます。"
+
+#: admin/tab-pages/getting-started.php:16
+msgid "This theme is ideal for creating corporate and business websites. The PRO version has tons of features: a homepage with many sections where you can feature unlimited sliders, portfolios, user reviews, latest news, services, calls to action and much more. Each section in the HomePage template is carefully designed to fit to all business requirements."
+msgstr "このテーマは企業やビジネスのサイトを作成するのに最適です。PROバーションには数多くの機能があります、例えば無制限のスライダ、ポートフォリオ、ユーザーレビュー、最新のニュース、サービス、アクションの呼び出しなど。ホームページテンプレートの各部は、すべてのビジネス要件に合わせて慎重に設計されています。"
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the SpicePress theme"
+msgstr "SpicePressテーマについて"
+
+#: functions/customizer/customizer_typography.php:6
+msgid "Typography Settings"
+msgstr "タイポグラフィ設定"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "ステータス"
+
+#: functions/customizer/customizer_typography.php:960
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: functions/customizer-notify/spicepress-customizer-notify.php:111
+msgid "Activating"
+msgstr "有効化中"
+
+#: functions/customizer/customizer_sections_settings.php:78
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "投稿者の名前、日付、コメントなどのポストメタ値を有効にする"
+
+#: functions/customizer/customizer_sections_settings.php:60
+msgid "Description"
+msgstr "説明"
+
+#: functions/customizer/customizer_sections_settings.php:48
+#: functions/customizer/customizer_typography.php:1039
+msgid "Title"
+msgstr "タイトル"
+
+#: functions/customizer/customizer_sections_settings.php:36
+msgid "OFF"
+msgstr "オフ"
+
+#: functions/customizer/customizer_sections_settings.php:35
+msgid "ON"
+msgstr "オン"
+
+#: functions/customizer/customizer_sections_settings.php:31
+msgid "Enable Home News section"
+msgstr "ホームニュースセクションを有効にする"
+
+#: functions/customizer/customizer_sections_settings.php:22
+msgid "Latest News Settings"
+msgstr "最新ニュース設定"
+
+#: functions/customizer/customizer_sections_settings.php:17
+msgid "Homepage Section Settings"
+msgstr "ホームページセクション設定"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "無効化"
+
+#: admin/inc/class-spicethemes-about-page.php:346
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "有効化"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "インストールして有効化"
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "おすすめプラグイン"
+
+#: admin/inc/class-spicethemes-about-page.php:240
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "推奨操作"
+
+#: functions/customizer/customizer_general_settings.php:153
+msgid "General Settings"
+msgstr "一般設定"
+
+#: functions/customizer/customizer-pro.php:19
+msgid "Upgrade to Pro"
+msgstr "プロ版へアップグレード"
+
+#: functions/customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr "PRO へアップグレード"
+
+#: functions/breadcrumbs/breadcrumbs.php:114
+#: functions/breadcrumbs/breadcrumbs.php:185
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: functions/breadcrumbs/breadcrumbs.php:66
+#: functions/breadcrumbs/breadcrumbs.php:137
+msgid "d"
+msgstr "日"
+
+#: functions/breadcrumbs/breadcrumbs.php:65
+#: functions/breadcrumbs/breadcrumbs.php:71
+#: functions/breadcrumbs/breadcrumbs.php:136
+#: functions/breadcrumbs/breadcrumbs.php:142
+msgid "F"
+msgstr "n月"
+
+#: functions/breadcrumbs/breadcrumbs.php:65
+#: functions/breadcrumbs/breadcrumbs.php:136
+msgid "m"
+msgstr "m"
+
+#: functions/breadcrumbs/breadcrumbs.php:64
+#: functions/breadcrumbs/breadcrumbs.php:65
+#: functions/breadcrumbs/breadcrumbs.php:70
+#: functions/breadcrumbs/breadcrumbs.php:75
+#: functions/breadcrumbs/breadcrumbs.php:135
+#: functions/breadcrumbs/breadcrumbs.php:136
+#: functions/breadcrumbs/breadcrumbs.php:141
+#: functions/breadcrumbs/breadcrumbs.php:146
+msgid "Y"
+msgstr "Y年"
+
+#: functions/breadcrumbs/breadcrumbs.php:60
+#: functions/breadcrumbs/breadcrumbs.php:131
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: functions/breadcrumbs/breadcrumbs.php:52
+#: functions/breadcrumbs/breadcrumbs.php:57
+#: functions/breadcrumbs/breadcrumbs.php:125
+#: functions/breadcrumbs/breadcrumbs.php:128
+#: functions/menu/default_menu_walker.php:23 index.php:32 index.php:41
+msgid "Home"
+msgstr "ホーム"
+
+#: content-page.php:24 content-single.php:34 content.php:41 content.php:45
+#: content.php:53 functions/template-tags.php:53
+#: functions/template-tags.php:263 index-news.php:60
+#: template/template-page-full-width.php:29
+msgid "Read More"
+msgstr "続きを読む"
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr "コメントを残す"
+
+#: comments.php:95
+msgid "Send Message"
+msgstr "メッセージ送信"
+
+#: comments.php:93
+msgid "Log out"
+msgstr "ログアウト"
+
+#: comments.php:93
+msgid "Logout of this account"
+msgstr "このアカウントからログアウト"
+
+#: comments.php:93
+msgid "Logged in as"
+msgstr "ログイン中:"
+
+#: comments.php:92
+msgid "Message"
+msgstr "メッセージ"
+
+#: comments.php:80
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:79
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:67 comments.php:113
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:52
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: comments.php:52
+msgid "1 comment so far"
+msgstr "1件のコメント"
+
+#: comments.php:52
+msgid "No comments so far"
+msgstr "コメントはありません"
+
+#: comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: comments.php:30
+msgid "Edit"
+msgstr "編集"
+
+#: comments.php:27
+msgid "Posted on"
+msgstr "投稿日:"
+
+#: comments.php:18
+msgid "Reply"
+msgstr "返信"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: 404.php:17
+msgid "Go Back"
+msgstr "戻る"
+
+#: 404.php:16
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "お探しのページが見つかりません。検索をお試しください。"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:14
+msgid "Oops! Page not found"
+msgstr "ページが見つかりませんでした"
+
+#. Author URI of the theme
+#: footer.php:23
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/spicepress-wordpress-theme/"
+msgstr "https://spicethemes.com/spicepress-wordpress-theme/"
